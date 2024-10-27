@@ -45,7 +45,7 @@ A simple, Java-based Flappy Bird clone built using Swing for the user interface 
 - `FlappyBird`: Contains the game's data, including bird and pipe properties, images, and dimensions. Manages the game logic, graphics, user input, and event handling.
 
 ## Screenshots
-![Gameplay Screenshot](./Flappy_Bird/output.jpg)
+(![image](https://github.com/user-attachments/assets/8fd56d09-8e04-4027-8d05-11ef9f959852))
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
